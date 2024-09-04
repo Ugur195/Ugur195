@@ -26,5 +26,6 @@
 <img align="left" width="20px" src="https://simpleicons.vercel.app/laravel/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/mysql/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/postgresql/000">
+<img align="left" width="20px" src="https://simpleicons.vercel.app/postgresql/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/postman/000">
 <img align="left" width="20px" src="https://simpleicons.vercel.app/jquery/000">
